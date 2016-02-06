@@ -9,9 +9,9 @@ Totally scalable. Totally customizable.
 
 For more details, visit http://android.leocardz.com/font-awesomed-android/ 
 
-![Colored](https://dl.dropboxusercontent.com/s/gz4l7xt5lp3sz6t/colored_normal.gif)
+![Colored](http://i.imgur.com/6Dbr4vg.gif)
 
-![BigFonts](https://dl.dropboxusercontent.com/s/7aicquh3qyntosl/big_fonts.gif)
+![BigFonts](http://i.imgur.com/SanWj1r.gif)
 
 
 ## License
