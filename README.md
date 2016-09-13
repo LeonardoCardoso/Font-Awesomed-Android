@@ -7,8 +7,6 @@ Example code of how to use Font Awesome on Android native and programatically.
 
 Totally scalable. Totally customizable.
 
-For more details, visit http://android.leocardz.com/font-awesomed-android/ 
-
 ![Colored](http://i.imgur.com/6Dbr4vg.gif)
 
 ![BigFonts](http://i.imgur.com/SanWj1r.gif)
